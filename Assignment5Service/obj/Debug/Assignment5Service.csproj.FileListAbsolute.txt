@@ -1,0 +1,6 @@
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\obj\Debug\Assignment5Service.csprojResolveAssemblyReference.cache
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\bin\Assignment5Service.dll.config
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\bin\Assignment5Service.dll
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\bin\Assignment5Service.pdb
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\obj\Debug\Assignment5Service.dll
+c:\users\aritrakumar\documents\visual studio 2013\Projects\Assignment5Service\Assignment5Service\obj\Debug\Assignment5Service.pdb

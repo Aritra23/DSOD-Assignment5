@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment5Service", "Assignment5Service\Assignment5Service.csproj", "{A505B3E7-340E-4BAA-9E9E-7128FC4AC316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{9DAA08E6-29A4-469F-8315-273836B6C257}"
+	ProjectSection(ProjectDependencies) = postProject
+		{346D721E-7CDD-4F73-B486-98DA005C40CD} = {346D721E-7CDD-4F73-B486-98DA005C40CD}
+		{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB} = {907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}
+		{A505B3E7-340E-4BAA-9E9E-7128FC4AC316} = {A505B3E7-340E-4BAA-9E9E-7128FC4AC316}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeData", "E:\ASU\DSOD\3\3\Rohit_Singh_HA-3_Part-2\Service-1\CrimeData\CrimeData.csproj", "{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "E:\ASU\DSOD\3\3\Rohit_Singh_HA-3_Part-3\WcfService1\WcfService1\WcfService1.csproj", "{06C93B69-4350-4DD9-A0ED-2709AF7A2164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService2", "E:\ASU\DSOD\3\3\Rohit_Singh_HA-3_Part-3\WcfService2\WcfService2\WcfService2.csproj", "{652AF90F-4F6D-4EF5-86FF-C28E06D997EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestHotelInformation", "..\NearestHotelInformation\NearestHotelInformation\NearestHotelInformation.csproj", "{451D0534-83CB-4F3F-8516-46F44FC1D12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFocusService", "..\NewsFocusService\NewsFocusService\NewsFocusService.csproj", "{A8220F9A-8F78-4E77-9DCC-67D7ECC6D674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentValidation", "..\PaymentValidation\PaymentValidation\PaymentValidation.csproj", "{1305DE64-D866-4778-A5F4-6F4AB48EE496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheNearestStore", "E:\ASU\DSOD\3\3\Rohit_Singh_HA-3_Part-2\Service-2\FindTheNearestStore\FindTheNearestStore.csproj", "{346D721E-7CDD-4F73-B486-98DA005C40CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A505B3E7-340E-4BAA-9E9E-7128FC4AC316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A505B3E7-340E-4BAA-9E9E-7128FC4AC316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A505B3E7-340E-4BAA-9E9E-7128FC4AC316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A505B3E7-340E-4BAA-9E9E-7128FC4AC316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAA08E6-29A4-469F-8315-273836B6C257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA08E6-29A4-469F-8315-273836B6C257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA08E6-29A4-469F-8315-273836B6C257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA08E6-29A4-469F-8315-273836B6C257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907EB196-E69C-4AE2-8CB5-83F28C6DD3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C93B69-4350-4DD9-A0ED-2709AF7A2164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C93B69-4350-4DD9-A0ED-2709AF7A2164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C93B69-4350-4DD9-A0ED-2709AF7A2164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C93B69-4350-4DD9-A0ED-2709AF7A2164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652AF90F-4F6D-4EF5-86FF-C28E06D997EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652AF90F-4F6D-4EF5-86FF-C28E06D997EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652AF90F-4F6D-4EF5-86FF-C28E06D997EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652AF90F-4F6D-4EF5-86FF-C28E06D997EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451D0534-83CB-4F3F-8516-46F44FC1D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451D0534-83CB-4F3F-8516-46F44FC1D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451D0534-83CB-4F3F-8516-46F44FC1D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451D0534-83CB-4F3F-8516-46F44FC1D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8220F9A-8F78-4E77-9DCC-67D7ECC6D674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8220F9A-8F78-4E77-9DCC-67D7ECC6D674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8220F9A-8F78-4E77-9DCC-67D7ECC6D674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8220F9A-8F78-4E77-9DCC-67D7ECC6D674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1305DE64-D866-4778-A5F4-6F4AB48EE496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1305DE64-D866-4778-A5F4-6F4AB48EE496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1305DE64-D866-4778-A5F4-6F4AB48EE496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1305DE64-D866-4778-A5F4-6F4AB48EE496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346D721E-7CDD-4F73-B486-98DA005C40CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346D721E-7CDD-4F73-B486-98DA005C40CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346D721E-7CDD-4F73-B486-98DA005C40CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346D721E-7CDD-4F73-B486-98DA005C40CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
